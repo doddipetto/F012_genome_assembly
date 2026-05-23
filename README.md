@@ -13,7 +13,6 @@ The FO12 genome was assembled using a hybrid approach combining Oxford Nanopore 
 * `01_assembly.sh`: Commands used for initial *de novo* assembly (Flye) and Hi-C scaffolding preparation.
 * `02_annotation.sh`: Commands for transposable element (TE) prediction (EDTA) and structural/functional annotation (Funannotate).
 * `03_effector_prediction.sh`: Pipeline for identifying the FO12 effectorome using SignalP, EffectorP, and deepTMHMM.
-* `scripts/find_fusion_Chr01.py`: Custom Python script used to validate the Chr01 syntenic fusion event by parsing PAF alignments against the Fol4287 reference genome.
 
 ## Citation
 If you use the data or scripts in this repository, please cite:
