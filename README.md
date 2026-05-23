@@ -16,7 +16,7 @@ The FO12 genome was assembled using a hybrid approach combining Oxford Nanopore 
 
 ## Citation
 If you use the data or scripts in this repository, please cite:
-> Doddi, A. *et al.* (2026). A chromosome-level genome assembly of the Fusarium oxysporum biocontrol strain FO12.
+> Doddi, A. *et al.* (2026). A chromosome-level genome assembly of the *Fusarium oxysporum* biocontrol strain FO12.
 
 ## Data Availability
 The final assembled genome is available at NCBI GenBank under accession **GCA_055853645.1**. Raw sequencing data (Nanopore and Hi-C) are deposited under BioProject **PRJNA1426711**.
