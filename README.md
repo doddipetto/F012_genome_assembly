@@ -1,4 +1,4 @@
-# Fusarium oxysporum FO12 - Genome Assembly and Annotation
+# Fusarium oxysporum FO12 - Genome assembly and annotation
 
 This repository contains the command-line strings, custom scripts, and bioinformatic pipelines used for the chromosome-level assembly and annotation of the biocontrol agent *Fusarium oxysporum* strain FO12.
 
